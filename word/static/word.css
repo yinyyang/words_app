@@ -1,0 +1,23 @@
+body {
+    background: #c7edcc !important;
+}
+.row1 {
+      background: #c7edcc !important;
+    color: black;
+}
+.row2 {
+      background: #c7edcc !important;
+}
+a{
+    font-size: 14px;
+    color: black;
+}
+
+a:link{
+    color: black;
+}
+td,th{
+
+font-family: "Microsoft YaHei";
+    font-weight: 300;
+}
